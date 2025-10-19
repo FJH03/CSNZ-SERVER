@@ -418,6 +418,6 @@
 	{
 		"HostConnectingMethod"		"0"
 	}
-	"NextDayResetTime"		"29318280"
-	"NextWeekResetTime"		"29325480"
+	"NextDayResetTime"		"29348520"
+	"NextWeekResetTime"		"29355720"
 }
